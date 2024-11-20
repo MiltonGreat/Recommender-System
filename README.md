@@ -1,8 +1,7 @@
 # Personalized Content and Product Recommendation System
 
-This repository contains a machine learning project focused on delivering personalized content, product recommendations, and offers based on individual customer preferences and past behaviors. The project leverages advanced data science and machine learning techniques to create an end-to-end recommendation system.
-
 ### Overview
+
 The goal of this project is to build a recommendation system that provides personalized recommendations and targeted offers for users based on historical product data, customer preferences, and past behaviors.
 
 The dataset used in this project consists of **gift card metadata**, including features such as title, description, price, average rating, and customer reviews. This system utilizes machine learning algorithms to:
